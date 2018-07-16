@@ -74,7 +74,6 @@ public class MainClass {
                     ) {
                 for (Attribute tempAttr : tempAttrs
                         ) {
-
                     if (tempAttr.equals(targetAttr)) {
                         matchNumber++;
                         break;
